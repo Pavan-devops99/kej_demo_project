@@ -1,0 +1,122 @@
+[
+  {
+    "id": "SENS-001",
+    "type": "Temperature",
+    "location": "Downtown District, Sector 7",
+    "coordinates": [40.7589, -73.9851],
+    "status": "Active",
+    "currentValue": 85.2,
+    "unit": "°F",
+    "threshold": 90,
+    "lastUpdate": "2025-11-04T09:20:00Z",
+    "alertLevel": "Normal"
+  },
+  {
+    "id": "SENS-002",
+    "type": "Smoke",
+    "location": "Downtown District, Sector 7",
+    "coordinates": [40.7589, -73.9851],
+    "status": "Alert",
+    "currentValue": 750,
+    "unit": "PPM",
+    "threshold": 500,
+    "lastUpdate": "2025-11-04T09:20:00Z",
+    "alertLevel": "Critical"
+  },
+  {
+    "id": "SENS-003",
+    "type": "Water Level",
+    "location": "Riverside Area, Zone 3",
+    "coordinates": [40.7128, -74.0060],
+    "status": "Alert",
+    "currentValue": 12.5,
+    "unit": "ft",
+    "threshold": 10,
+    "lastUpdate": "2025-11-04T09:18:00Z",
+    "alertLevel": "High"
+  },
+  {
+    "id": "SENS-004",
+    "type": "Seismic",
+    "location": "Northern Suburb, District 12",
+    "coordinates": [40.7614, -73.9776],
+    "status": "Active",
+    "currentValue": 0.8,
+    "unit": "Magnitude",
+    "threshold": 3.0,
+    "lastUpdate": "2025-11-04T09:19:00Z",
+    "alertLevel": "Normal"
+  },
+  {
+    "id": "SENS-005",
+    "type": "Gas",
+    "location": "Industrial Park, Sector 9",
+    "coordinates": [40.7489, -73.9680],
+    "status": "Alert",
+    "currentValue": 450,
+    "unit": "PPM",
+    "threshold": 300,
+    "lastUpdate": "2025-11-04T09:20:00Z",
+    "alertLevel": "Critical"
+  },
+  {
+    "id": "SENS-006",
+    "type": "Air Quality",
+    "location": "City Center, Zone 1",
+    "coordinates": [40.7580, -73.9855],
+    "status": "Active",
+    "currentValue": 65,
+    "unit": "AQI",
+    "threshold": 100,
+    "lastUpdate": "2025-11-04T09:21:00Z",
+    "alertLevel": "Normal"
+  },
+  {
+    "id": "SENS-007",
+    "type": "Structural",
+    "location": "Old Town, Heritage Block",
+    "coordinates": [40.7306, -73.9352],
+    "status": "Alert",
+    "currentValue": 15,
+    "unit": "mm",
+    "threshold": 10,
+    "lastUpdate": "2025-11-04T09:17:00Z",
+    "alertLevel": "High"
+  },
+  {
+    "id": "SENS-008",
+    "type": "Radiation",
+    "location": "Research Facility, Zone 5",
+    "coordinates": [40.7410, -73.9898],
+    "status": "Active",
+    "currentValue": 0.15,
+    "unit": "μSv/h",
+    "threshold": 1.0,
+    "lastUpdate": "2025-11-04T09:22:00Z",
+    "alertLevel": "Normal"
+  },
+  {
+    "id": "SENS-009",
+    "type": "Wind Speed",
+    "location": "Coastal Area, Sector 2",
+    "coordinates": [40.7069, -74.0113],
+    "status": "Active",
+    "currentValue": 35,
+    "unit": "mph",
+    "threshold": 50,
+    "lastUpdate": "2025-11-04T09:20:00Z",
+    "alertLevel": "Normal"
+  },
+  {
+    "id": "SENS-010",
+    "type": "Pressure",
+    "location": "Weather Station Alpha",
+    "coordinates": [40.7500, -73.9700],
+    "status": "Active",
+    "currentValue": 1013,
+    "unit": "hPa",
+    "threshold": 980,
+    "lastUpdate": "2025-11-04T09:23:00Z",
+    "alertLevel": "Normal"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "CAM-001",
+    "name": "Downtown Sector 7 - Main St",
+    "location": "Downtown District, Sector 7",
+    "coordinates": [40.7589, -73.9851],
+    "status": "Active",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "lastSnapshot": "2025-11-04T09:20:00Z",
+    "alerts": ["Smoke Detected", "High Activity"],
+    "quality": "HD"
+  },
+  {
+    "id": "CAM-002",
+    "name": "Riverside Zone 3 - Bridge View",
+    "location": "Riverside Area, Zone 3",
+    "coordinates": [40.7128, -74.0060],
+    "status": "Active",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "lastSnapshot": "2025-11-04T09:19:00Z",
+    "alerts": ["Water Level High"],
+    "quality": "HD"
+  },
+  {
+    "id": "CAM-003",
+    "name": "Industrial Park - Gate A",
+    "location": "Industrial Park, Sector 9",
+    "coordinates": [40.7489, -73.9680],
+    "status": "Active",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "lastSnapshot": "2025-11-04T09:21:00Z",
+    "alerts": ["Gas Leak Detected"],
+    "quality": "HD"
+  },
+  {
+    "id": "CAM-004",
+    "name": "Highway 101 - Mile 23",
+    "location": "Highway 101, Mile 23",
+    "coordinates": [40.7580, -73.9855],
+    "status": "Active",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "lastSnapshot": "2025-11-04T09:18:00Z",
+    "alerts": [],
+    "quality": "HD"
+  },
+  {
+    "id": "CAM-005",
+    "name": "Old Town - Heritage Block",
+    "location": "Old Town, Heritage Block",
+    "coordinates": [40.7306, -73.9352],
+    "status": "Active",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "lastSnapshot": "2025-11-04T09:17:00Z",
+    "alerts": ["Structural Movement"],
+    "quality": "HD"
+  },
+  {
+    "id": "CAM-006",
+    "name": "Port Area - Dock 7",
+    "location": "Port Area, Dock 7",
+    "coordinates": [40.7069, -74.0113],
+    "status": "Active",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "lastSnapshot": "2025-11-04T09:22:00Z",
+    "alerts": ["Chemical Spill"],
+    "quality": "HD"
+  },
+  {
+    "id": "CAM-007",
+    "name": "City Center - Plaza",
+    "location": "City Center, Zone 1",
+    "coordinates": [40.7580, -73.9855],
+    "status": "Active",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "lastSnapshot": "2025-11-04T09:20:00Z",
+    "alerts": [],
+    "quality": "4K"
+  },
+  {
+    "id": "CAM-008",
+    "name": "Suburban Area - Grid C4",
+    "location": "Suburban Area, Grid C4",
+    "coordinates": [40.7410, -73.9898],
+    "status": "Offline",
+    "streamUrl": "",
+    "lastSnapshot": "2025-11-04T08:45:00Z",
+    "alerts": ["Camera Offline"],
+    "quality": "HD"
+  }
+]

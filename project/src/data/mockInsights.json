@@ -1,0 +1,87 @@
+{
+  "insights": [
+    {
+      "id": "AI-001",
+      "type": "Pattern Detection",
+      "priority": "High",
+      "title": "Increased Fire Risk in Downtown Area",
+      "description": "AI analysis shows 40% increase in temperature and smoke levels in Sector 7 over past 2 hours. Recommend immediate fire department alert.",
+      "confidence": 0.92,
+      "timestamp": "2025-11-04T09:15:00Z",
+      "affectedAreas": ["Sector 7", "Sector 8"],
+      "recommendations": [
+        "Deploy additional fire units to downtown",
+        "Evacuate buildings in high-risk zones",
+        "Monitor wind patterns for fire spread"
+      ]
+    },
+    {
+      "id": "AI-002",
+      "type": "Prediction",
+      "priority": "Critical",
+      "title": "Flood Warning - Riverside Area",
+      "description": "Water level sensors indicate 85% probability of severe flooding in next 3 hours. Historical data shows similar patterns led to major floods.",
+      "confidence": 0.85,
+      "timestamp": "2025-11-04T09:10:00Z",
+      "affectedAreas": ["Zone 3", "Zone 4", "Riverside District"],
+      "recommendations": [
+        "Issue evacuation orders for low-lying areas",
+        "Deploy flood barriers and pumps",
+        "Coordinate with weather services"
+      ]
+    },
+    {
+      "id": "AI-003",
+      "type": "Resource Optimization",
+      "priority": "Medium",
+      "title": "Emergency Unit Reallocation Suggested",
+      "description": "Current distribution of emergency units is suboptimal. AI suggests relocating Unit 5 to reduce average response time by 12 minutes.",
+      "confidence": 0.78,
+      "timestamp": "2025-11-04T09:05:00Z",
+      "affectedAreas": ["All Districts"],
+      "recommendations": [
+        "Move Unit 5 from Sector 12 to Sector 6",
+        "Place Unit 3 on standby in Zone 2",
+        "Review dispatch protocols"
+      ]
+    },
+    {
+      "id": "AI-004",
+      "type": "Anomaly Detection",
+      "priority": "High",
+      "title": "Unusual Seismic Activity Pattern",
+      "description": "Multiple low-magnitude tremors detected in Northern District. Pattern differs from normal seismic activity - possible precursor to larger event.",
+      "confidence": 0.67,
+      "timestamp": "2025-11-04T08:50:00Z",
+      "affectedAreas": ["District 12", "District 13"],
+      "recommendations": [
+        "Increase structural monitoring",
+        "Prepare evacuation routes",
+        "Alert geological survey team"
+      ]
+    },
+    {
+      "id": "AI-005",
+      "type": "Trend Analysis",
+      "priority": "Low",
+      "title": "Air Quality Improvement Detected",
+      "description": "City-wide air quality metrics show 15% improvement over past week. Traffic management strategies appear effective.",
+      "confidence": 0.88,
+      "timestamp": "2025-11-04T08:30:00Z",
+      "affectedAreas": ["All Zones"],
+      "recommendations": [
+        "Continue current traffic policies",
+        "Expand green zones in downtown",
+        "Monitor industrial emissions"
+      ]
+    }
+  ],
+  "kpis": {
+    "activeIncidents": 5,
+    "criticalAlerts": 3,
+    "sensorsCritical": 2,
+    "responseTime": "8.5 min",
+    "resourceUtilization": 67,
+    "aiPredictionAccuracy": 87
+  }
+}
